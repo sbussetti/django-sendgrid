@@ -6,3 +6,5 @@ docs/_build/*
 build/*
 dist/*
 django_sendgrid.egg-info/*
+*.sw[op]
+.ropeproject
